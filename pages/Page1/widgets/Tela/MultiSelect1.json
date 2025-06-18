@@ -1,0 +1,66 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "1.5rem",
+  "bottomRow": 29,
+  "boxShadow": "none",
+  "defaultOptionValue": "[\n  \"MÁQUINA 01\",\n\t\"MÁQUINA 02\"\n]",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "az2sa21a2t",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "Máquina",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 34,
+  "mobileLeftColumn": 11,
+  "mobileRightColumn": 31,
+  "mobileTopRow": 27,
+  "needsErrorInfo": false,
+  "onOptionChange": "{{}}",
+  "optionLabel": "name",
+  "optionValue": "name",
+  "parentColumnSpace": 10.59375,
+  "parentId": "0hlw4kf7oc",
+  "parentRowSpace": 10,
+  "placeholderText": "Selecione a máquina",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 20,
+  "serverSideFiltering": false,
+  "sourceData": [
+    {
+      "code": "BLUE",
+      "name": "Blue"
+    },
+    {
+      "code": "GREEN",
+      "name": "Green"
+    },
+    {
+      "code": "RED",
+      "name": "Red"
+    }
+  ],
+  "topRow": 21,
+  "type": "MULTI_SELECT_WIDGET_V2",
+  "version": 1,
+  "widgetId": "8uoo8zqd6e",
+  "widgetName": "MultiSelect1"
+}

@@ -19,7 +19,7 @@
   "isLoading": false,
   "isVisible": true,
   "key": "szi2k7r6w8",
-  "leftColumn": 26,
+  "leftColumn": 37,
   "minWidth": 120,
   "mobileBottomRow": 6,
   "mobileLeftColumn": 9,
@@ -34,12 +34,12 @@
   "renderMode": "CANVAS",
   "resetFormOnClick": false,
   "responsiveBehavior": "hug",
-  "rightColumn": 39,
+  "rightColumn": 50,
   "text": "Receitas",
   "tooltip": "/",
   "topRow": 2,
   "type": "BUTTON_WIDGET",
   "version": 1,
   "widgetId": "zkkr8wxgca",
-  "widgetName": "Button1"
+  "widgetName": "Receitas"
 }

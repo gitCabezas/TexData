@@ -21,11 +21,19 @@
   "icon": "tree",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Tela_Receituário",
       "isDefault": true
     },
     {
-      "id": "Page2",
+      "id": "Tela_Login",
+      "isDefault": false
+    },
+    {
+      "id": "Tela_Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Tela_Romaneio",
       "isDefault": false
     }
   ],

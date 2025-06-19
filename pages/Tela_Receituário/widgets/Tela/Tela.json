@@ -1,6 +1,6 @@
 {
   "animateLoading": true,
-  "backgroundColor": "#e2cc99",
+  "backgroundColor": "#e3ddcf",
   "borderColor": "#e2cc99",
   "borderRadius": "0px",
   "borderWidth": "1",
@@ -68,7 +68,7 @@
   "mobileRightColumn": 33,
   "mobileTopRow": 24,
   "needsErrorInfo": false,
-  "originalBottomRow": 94,
+  "originalBottomRow": 78,
   "originalTopRow": 0,
   "parentColumnSpace": 10.90625,
   "parentId": "0",

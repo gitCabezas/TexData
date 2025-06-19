@@ -3,7 +3,7 @@
   "borderRadius": "0.375rem",
   "bottomRow": 6,
   "boxShadow": "none",
-  "buttonColor": "#3d0600",
+  "buttonColor": "#b38f55",
   "buttonVariant": "PRIMARY",
   "disabledWhenInvalid": false,
   "dynamicBindingPathList": [],
